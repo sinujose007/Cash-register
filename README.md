@@ -1,3 +1,3 @@
-# admintest.mintroute.com
+# Cash Register
 
-admin test project
+REST API project
